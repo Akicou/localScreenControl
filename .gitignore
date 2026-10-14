@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+# AI assistant files
+.claude/
+CLAUDE.md
+.cursor/
+.aider*

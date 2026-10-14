@@ -1,0 +1,4 @@
+mcp>=2.3,<3
+mss>=9
+pillow>=10
+pynput>=1.7
